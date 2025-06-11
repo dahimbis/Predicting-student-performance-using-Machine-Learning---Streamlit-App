@@ -41,7 +41,7 @@ Relationships between various features
 
 ### 📝 Input Form for Prediction  
 Users enter academic and personal data  
-![Form 1](png)  
+![Form 1](pro6.png)  
 ![Form 2](pro7.png)  
 ![Form 3](pro8.png)
 
@@ -108,6 +108,6 @@ Authentication backend
 
 ---
 
-###📌 Conclusion
+### 📌 Conclusion
 This was my first machine learning project. I improved it bit by bit. I plan to share more updates and refinements soon.
 
