@@ -77,7 +77,7 @@ Streamlit form that captures prediction inputs
 ![Code 3](pro15.png)
 
 #### Random Forest Prediction Logic  
-Model training, evaluation and output  
+Model training, evaluation, and output  
 ![Code 4](pro16.png)
 
 #### User Login System Using SQLite  
@@ -108,5 +108,6 @@ Authentication backend
 
 ---
 
-
+###📌 Conclusion
+This was my first machine learning project. I improved it bit by bit. I plan to share more updates and refinements soon.
 
