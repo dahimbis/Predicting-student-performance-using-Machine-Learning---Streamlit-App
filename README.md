@@ -29,13 +29,13 @@ Login and signup options
 
 ### 📊 Dashboard with Dataset View  
 Browse raw GPA and background data  
-![Dashboard](pro4.png)
+![Dashboard](pro5.png)
 
 ---
 
 ### 📉 Pairplots and Distributions  
 Relationships between various features  
-![Pairplots](pro5.png)
+![Pairplots](pro4.png)
 
 ---
 
