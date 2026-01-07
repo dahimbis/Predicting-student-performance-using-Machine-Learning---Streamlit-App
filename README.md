@@ -1,6 +1,6 @@
 # 🎓 Predicting Student Performance using Machine Learning
 
-This is a machine learning project to predict students' CGPA using a trained regression model. It allows data entry through a Streamlit interface and gives users performance predictions based on a variety of academic and personal input factors.
+This is a machine learning project to predict students' performance and final CGPA using a trained regression model. It allows data entry through a Streamlit interface and gives users performance predictions based on a variety of academic and personal input factors.
 ## ✅ Features
 
 - Linear Regression and Random Forest model options
